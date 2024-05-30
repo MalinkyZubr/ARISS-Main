@@ -17,5 +17,11 @@
 * overviewed ARISS hamtv funcitonality
 * introduction to SDR++, radio concepts
 * got some new materials to read about antennas, and math
+* set up sdrangel with hackrf and rtl-sdr
 
-
+5/30/2024 10:30 am - 45 miles drive
+* portsdown 2020 ugly datv
+* hackrf 2020 portdown ugly datv
+* minitiouner receive ugly datv portsdown
+* sync on project goals prior to official start date
+* tested portdown ugly datv with open tuner software
