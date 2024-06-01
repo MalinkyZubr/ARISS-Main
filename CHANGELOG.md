@@ -18,6 +18,7 @@
 * introduction to SDR++, radio concepts
 * got some new materials to read about antennas, and math
 * set up sdrangel with hackrf and rtl-sdr
+* overviewed the superheterodyne block diagram
 
 5/30/2024 10:30 am - 45 miles drive
 * portsdown 2020 ugly datv
@@ -25,3 +26,13 @@
 * minitiouner receive ugly datv portsdown
 * sync on project goals prior to official start date
 * tested portdown ugly datv with open tuner software
+
+5/31/2024 - indepentent work at home
+* learned about importane of impedance
+* learned about the danger of reflection in RF circuits due to poor impedance matching
+* learned impedance matching circuits/networks
+* learned about image rejection, how it relates to mixer, and how it is dealt with
+
+6/1/2024 - independent work at home
+* began studying for the ARRL ham radio technician license test
+* set up test equipment at home, preparing for use
