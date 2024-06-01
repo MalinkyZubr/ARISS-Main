@@ -26,6 +26,7 @@
 * minitiouner receive ugly datv portsdown
 * sync on project goals prior to official start date
 * tested portdown ugly datv with open tuner software
+* successfully transmitted test pattern with hackrf using sdrangel
 
 5/31/2024 - indepentent work at home
 * learned about importane of impedance
