@@ -11,6 +11,7 @@
 * do decibel calcs
 * minitiouner setup and installation complete, successfully receive test signal
 * did the talking and study about the weather balloons
+* learned about operating CW signals
 
 05/28/2024 10 am - 5 pm 45 miles drive
 * read basics on wikipedia about hamtv
