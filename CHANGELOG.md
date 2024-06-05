@@ -20,6 +20,7 @@
 * got some new materials to read about antennas, and math
 * set up sdrangel with hackrf and rtl-sdr
 * overviewed the superheterodyne block diagram
+* USB and LSB distinction, reasoning
 
 5/30/2024 10:30 am - 45 miles drive
 * portsdown 2020 ugly datv
@@ -28,6 +29,7 @@
 * sync on project goals prior to official start date
 * tested portdown ugly datv with open tuner software
 * successfully transmitted test pattern with hackrf using sdrangel
+* relationship between signal power, bandwidth
 
 5/31/2024 - indepentent work at home
 * learned about importane of impedance
@@ -38,3 +40,16 @@
 6/1/2024 - independent work at home
 * began studying for the ARRL ham radio technician license test
 * set up test equipment at home, preparing for use
+
+6/3/2024 - independent work at home, 6:30 am - 5 pm
+* orientation meeting
+* first SIP standup
+* learned about the 'DC Spike', and why it occurs
+* configuring noolec sdr smart for linux
+* research into vaisala rs41 radiosconde telemetry
+* research into gfsk, radiosconde operations
+* intersymbol interference
+  * multipath propogation
+  * bandlimited channels
+* PSK and its relationship to the complex plane (data encoded in complex plane)
+* ADC design, sample rate vs conversion rate, ADC resolution/sensitivity
