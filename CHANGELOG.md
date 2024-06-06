@@ -53,3 +53,18 @@
   * bandlimited channels
 * PSK and its relationship to the complex plane (data encoded in complex plane)
 * ADC design, sample rate vs conversion rate, ADC resolution/sensitivity
+
+6/4/2024 - independent work 9 am - 5 pm
+* extensive reading of pyrtlsdr when developing test demonstration for dongle
+* investigation of USB operations and DVB-s demodulation in opentuner software
+* brainstorming on more user friendly software for DVB-S reception that may be more conducive for simple communication
+* brainstorming on webSDR for retransmitting DVB-S to the itnernet
+
+6/6/2024 - independent work 7:30 am - 5:45 pm
+* studying for ham radio technician exam
+* finished configuring laptop for use in work
+* read academic article, "What nyquist didnt say"
+* began preliminary development of crude fm radio receiver using pyrtlsdr
+* learned about DC frequency and FFTshift
+* learned about spectral density graph
+* 
