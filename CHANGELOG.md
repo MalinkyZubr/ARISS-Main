@@ -36,6 +36,7 @@
 * learned about the danger of reflection in RF circuits due to poor impedance matching
 * learned impedance matching circuits/networks
 * learned about image rejection, how it relates to mixer, and how it is dealt with
+* got the skywatch to work
 
 6/1/2024 - independent work at home
 * began studying for the ARRL ham radio technician license test
@@ -60,11 +61,23 @@
 * brainstorming on more user friendly software for DVB-S reception that may be more conducive for simple communication
 * brainstorming on webSDR for retransmitting DVB-S to the itnernet
 
-6/6/2024 - independent work 7:30 am - 5:45 pm
+6/5/2024 - independent work 7:30 am - 5:45 pm
 * studying for ham radio technician exam
 * finished configuring laptop for use in work
 * read academic article, "What nyquist didnt say"
 * began preliminary development of crude fm radio receiver using pyrtlsdr
 * learned about DC frequency and FFTshift
 * learned about spectral density graph
-* 
+
+6/7/2024 -independent work 8:30 am - 
+* read about FEC error correction, and encoding techniques
+* read about DSP, hilber transformation, amplitude loss on mixing
+* 2 hours review on complex number operations and uses
+* continued working on pyrtlsdr development work
+
+6/10/2024 - independent work 9 am - 6 pm
+* set up windows development environment to begin fork of opentuner
+* began examining opentuner source code in greater detail
+* learned about RIT (radio incremental tuning)
+* read in book on operations of BJT transistors
+* assembled simple single stage amplifier with BJT, experimented with different configurations

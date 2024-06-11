@@ -1,7 +1,7 @@
 ### Stuff to review
 #### Section 2.1
-* different frequency band names
-* metric scale conversions
+[x] different frequency band names
+[x] metric scale conversions
 
 #### Section 2.2
 * modulation schemes
@@ -33,6 +33,7 @@
 * tropospheric ducting
 * 10 meter band propogation
 * dB wattage calculations
+* digital mode operation
 
 #### section 4.3
 * swr ratios
@@ -123,3 +124,4 @@
 * test transmission
 * control types
 * maximum permissible exposure limit
+* talkgroups

@@ -47,7 +47,7 @@
 * sdrpp tutorial
 https://www.amsat-on.be/hamtv-summary/ariss-ham-tv/
 * swr, standing wave ratio, learn
-* read up on fec
+[x] read up on fec
 * read polarized antennas, multiple signals safe frequency, circular polarization
 https://forum.amsat-dl.org/index.php?thread/3931-helix-tx-antenna-is-this-good-to-go/
 
@@ -64,5 +64,5 @@ https://forum.amsat-dl.org/index.php?thread/3931-helix-tx-antenna-is-this-good-t
 * cosmic watch
 * ultrasonic microphone fft
   * muons, cosmic rays
-* qpsk, bpsk
+[x] qpsk, bpsk
 * 
