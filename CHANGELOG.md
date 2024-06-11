@@ -81,3 +81,4 @@
 * learned about RIT (radio incremental tuning)
 * read in book on operations of BJT transistors
 * assembled simple single stage amplifier with BJT, experimented with different configurations
+* installed and confiugred wine for linux to run LTSpice
