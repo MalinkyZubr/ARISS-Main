@@ -82,3 +82,39 @@
 * read in book on operations of BJT transistors
 * assembled simple single stage amplifier with BJT, experimented with different configurations
 * installed and confiugred wine for linux to run LTSpice
+
+
+6/11/2024 - 9 am - 5 pm, 45 miles drive
+* began assembly of the picotuner board
+* completed on the wire meeting
+* REMEMBER:
+  * assemble list of contacts spreadsheet
+  * make it known I want to come back for full time or another internship
+
+6/12/2024 - 10 am - 5 pm 45 miles drive
+* finished assembly of the picotuner board
+* successfully tested the picotuner with the datv-ugly and the Digilite-Zl
+* assembled the picotuner encasement box using drill press
+
+6/13/2024 - 11 am - 5 pm independent work
+* carsons rule (bandwidth = 2 * sum highest modulating frequency & deviation) for fm
+* meteor scatter
+* CTCSS tones for opening repeaters
+* reading about capacitive reactance, kirchoffs laws, AC circuits
+* APRS Automatic packet reporting system
+* ARQ Automatic repeat request
+* NET control stations
+* PTT push to talk
+
+06/14/2024 - 9am - 5pm 45 miles drive
+* meeting with Randy and co
+* REMEMBER:
+  * prepare for presentation wiht the BATC people to present work with picotuner
+* generated labels for picotuner case
+* ran antenna tests for picotuner at longer range
+* troubleshooted compatability issues between picotuner and windows 11 VLC (hardware deecoding)
+* continued studying for the ham radio test
+
+06/17/2024 - 7:30 am - - independent work
+* meeting with leadership
+* sip weekly briefing
