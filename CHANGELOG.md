@@ -131,3 +131,7 @@
   * identified issues setting center and LNB frequencies (to ask the batc people)
 * gained familiarity with ltspice
 * set up ssh on the cubesat simulator
+* milled and cut copper board for cubesat simulator
+* glued/attached standoff spacers to cubesat body for attaching of rpi zero-w
+* soldered replaced OLED board for damaged cosmic watch
+  * tested all cosmic watches, identified light leakage in one of them
