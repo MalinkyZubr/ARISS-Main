@@ -115,6 +115,19 @@
 * troubleshooted compatability issues between picotuner and windows 11 VLC (hardware deecoding)
 * continued studying for the ham radio test
 
-06/17/2024 - 7:30 am - - independent work
+06/17/2024 - 7:30 am - 5:30 pm - independent work
 * meeting with leadership
 * sip weekly briefing
+
+06/18/2024 - 9 am - 5 pm - 45 miles drive
+* Continued detailed exploration of RC and RL circuits in application to analog filters
+* understood frequency response difference between bandstop parallel resonant filter and bandpass series resonant filter
+* explored the concepts of feedback as it has to do with operational amplifiers
+* operational amplifier archtiecture, constituent parts of op-amp
+  * both positive and negative terminals should try and remain the same. Amp drives harder or lower to compensate for voltage changes
+* 3 terminal variable voltage/current regulator circuits
+* voltage referencing in op-amps, bandgap reference
+* experimented using the BATC portsdown4 platform to drive the picotuner/minitiouner boards
+  * identified issues setting center and LNB frequencies (to ask the batc people)
+* gained familiarity with ltspice
+* set up ssh on the cubesat simulator
