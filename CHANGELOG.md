@@ -135,3 +135,10 @@
 * glued/attached standoff spacers to cubesat body for attaching of rpi zero-w
 * soldered replaced OLED board for damaged cosmic watch
   * tested all cosmic watches, identified light leakage in one of them
+
+06/24/2024 - 9 am - 5 pm 45 miles drive
+* cubesatsim assembled with radio hat, successfully transmit and receive telemetry
+  * 434.013 MHz identified as true frequency
+* setup FoxDecode decoder alongside rtl-sdr and assembled cubesatsim to receive simulated cubesat telemetry
+  * attempted with virtual audio cables integrated with SDRpp as well as on linux with rtl_fm and multimon-ng, however these proved (for now) to be nonfunctional
+* 

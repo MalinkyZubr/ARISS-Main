@@ -1,0 +1,1 @@
+ask about compatability of portsdown4 with picotuner, configuration of LNB, general usage
