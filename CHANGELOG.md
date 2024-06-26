@@ -118,6 +118,11 @@
 06/17/2024 - 7:30 am - 5:30 pm - independent work
 * meeting with leadership
 * sip weekly briefing
+* read extensively into filter operations and design, especially focusing on resonant circuits, bandwidth, center frequency, etc
+* learned how to use bode plotter
+* explored harmonics of RF signals, how this relates to amplification and other operations, connected this to the PLL
+* set up multisim with shared folders in virtual machine to allow for easy testing of rf circuits
+* made ohms law calculations using ohms law of reactance, vectorized view of reactance and
 
 06/18/2024 - 9 am - 5 pm - 45 miles drive
 * Continued detailed exploration of RC and RL circuits in application to analog filters
