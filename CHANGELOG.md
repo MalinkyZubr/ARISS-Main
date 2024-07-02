@@ -123,6 +123,11 @@
 * explored harmonics of RF signals, how this relates to amplification and other operations, connected this to the PLL
 * set up multisim with shared folders in virtual machine to allow for easy testing of rf circuits
 * made ohms law calculations using ohms law of reactance, vectorized view of reactance and
+* read extensively into filter operations and design, especially focusing on resonant circuits, bandwidth, center frequency, etc
+* learned how to use bode plotter
+* explored harmonics of RF signals, how this relates to amplification and other operations, connected this to the PLL
+* set up multisim with shared folders in virtual machine to allow for easy testing of rf circuits
+* made ohms law calculations using ohms law of reactance, vectorized view of reactance and
 
 06/18/2024 - 9 am - 5 pm - 45 miles drive
 * Continued detailed exploration of RC and RL circuits in application to analog filters
@@ -146,4 +151,30 @@
   * 434.013 MHz identified as true frequency
 * setup FoxDecode decoder alongside rtl-sdr and assembled cubesatsim to receive simulated cubesat telemetry
   * attempted with virtual audio cables integrated with SDRpp as well as on linux with rtl_fm and multimon-ng, however these proved (for now) to be nonfunctional
-* 
+
+06/27/2024 - 9 am - 5 pm independent work
+* Coordinated with caden peters to write blurb for magazine publication
+* identified 3 test setups for cubesat
+* installed and attempted configuration of 3 cubesat receive test softwares
+* identified 3 picotuner tests, setup test result spreadsheets
+* installed datvexpress software and began running tests of the plutosdr as a test transmitter for picotuner
+* began formalizing test instructions for picotuner and cubesatsim
+* learned about dc offset and IQ imbalancing
+
+06/28/2025 8am - 5pm independent work
+* operational amplifier design
+* conductance angle, amplifier classes, importance of different stages and biasing, importance of recovery for BJTs in amplifiers
+* inactive vs active periods on amp
+* BJT regions of operation, amplifier clipping due to saturation
+* darlington transistors and their value
+
+07/01/2024 9 am - 6 pm independent work
+* weekly briefing meeting
+* bowersox talk
+* ham radio studying
+* built 2.4 ghz ground plane antenna
+* 1 on 1 meeting with Korine Powers
+* continued troubleshooting crashing issues with OpenTuner, contacted primary developer on github for assistance
+* continued to attempt to get the plutosdr transmit to work. Working through consistent crashing issues with DATV express on windows. Attempted and failed wine installation on linux
+* began studying linear DC circuit design
+* received ST2 programmer, began programming vaisala rs41

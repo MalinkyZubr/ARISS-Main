@@ -1,4 +1,20 @@
+# Picotuner Tests
+* These tests are conducted to identify the optimal software configuration of the PicoTuner receiver board, and confirm functionality when operating alongside several different transmitters
+
+## Test Transmitters
+- all transmitters use DVB-S modulation, at a distance of 1/2 meters
+* BATC Rapsberry Pi Ugly DATV transmit
+  * very simple crude transmitter for still image. High frequency bit bashing on GPIO pin to emulate antenna. Operates over very short range
+* Digilite-ZL
+  * transmitter test source playing looped video 
+* Adam PlutoSDR
+  * educational tool capable of transmitting DVB-S 
+
+## Environment Setup
+### Opentuner receiver
 Installation steps for setting up picotuner on rpi pico (using windows)
+
+#### Firmware Setup
 1. Download the picotuner test program [here](https://www.dropbox.com/scl/fi/3ziiiq71hretd2yzaou8f/picotuner_driver_test_app.zip?rlkey=gl4xsxddxprxfvjjydebvez5y&e=1&dl=0)
    1. run the tester exe as administrator
    2. hit "install drivers"
@@ -10,13 +26,3 @@ Installation steps for setting up picotuner on rpi pico (using windows)
    1. download the opentuner zip file [here](https://www.zr6tg.co.za/files/open_tuner_0.A.zip)
    2. run the exe enclosed
    3. rpi pico should interface properly with the software
-
-#### Assembly
-* instructions for assembly and a BOM can be found here: https://wiki.batc.org.uk/PicoTuner_Hardware
-
-
-
-### Sources:
-* https://www.zr6tg.co.za/open-tuner/
-* https://wiki.batc.org.uk/PicoTuner
-* https://www.zr6tg.co.za/2024/02/11/picotuner-an-experimental-dual-ts-alternative/
