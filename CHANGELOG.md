@@ -149,7 +149,7 @@
 06/24/2024 - 9 am - 5 pm 45 miles drive
 * cubesatsim assembled with radio hat, successfully transmit and receive telemetry
   * 434.013 MHz identified as true frequency
-* setup FoxDecode decoder alongside rtl-sdr and assembled cubesatsim to receive simulated cubesat telemetry
+* setup FoxTelemetry decoder alongside rtl-sdr and assembled cubesatsim to receive simulated cubesat telemetry
   * attempted with virtual audio cables integrated with SDRpp as well as on linux with rtl_fm and multimon-ng, however these proved (for now) to be nonfunctional
 
 06/27/2024 - 9 am - 5 pm independent work
@@ -178,3 +178,20 @@
 * continued to attempt to get the plutosdr transmit to work. Working through consistent crashing issues with DATV express on windows. Attempted and failed wine installation on linux
 * began studying linear DC circuit design
 * received ST2 programmer, began programming vaisala rs41
+  * will figure this out later
+  * read more about different modes, mode change button
+  * see pictures for more info
+* got to work with plutosdr driver installs and DATVExpress
+* get the DVB-s express for plutosdr
+* sync with caden to begin work on the magazine article
+* signal splitter
+* planned for week's activities, next meeting, learn about ground plane antennas
+* learn about the dc spike, IQ imbalancing
+
+07/02/2024 9am - 5 pm 45 mile drive
+* learn about buck converters
+* planning for satellite tracking rotator system to use with picotuner receive
+* discussed and planned possibility of desinging in house MCU based rotator system
+* attended lecture of how to make most of internship
+* reed relay coil
+* 
