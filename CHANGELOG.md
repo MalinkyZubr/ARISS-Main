@@ -194,4 +194,5 @@
 * discussed and planned possibility of desinging in house MCU based rotator system
 * attended lecture of how to make most of internship
 * reed relay coil
-* 
+* confirmed that datvexpress works in windows 10, plan to setup windows 10 vm in future for proper function, with both mpeg2 and h264. h265 too much for kerry laptop
+* identified successful operation of opentuner on a desktop computer running windows 10. Will try building opentuner from source to avoid machine specific problems with precompiled binaries.
