@@ -13,6 +13,10 @@
 ## Environment Setup
 ### Opentuner receiver
 Installation steps for setting up picotuner on rpi pico (using windows)
+* driver install
+  * install Zadig [here](https://zadig.akeo.ie/)
+  * open zadig -> options -> list all devices
+  * dropdown menu, install batc picotuner TS interfaces 0 AND 1
 
 #### Firmware Setup
 1. Download the picotuner test program [here](https://www.dropbox.com/scl/fi/3ziiiq71hretd2yzaou8f/picotuner_driver_test_app.zip?rlkey=gl4xsxddxprxfvjjydebvez5y&e=1&dl=0)
