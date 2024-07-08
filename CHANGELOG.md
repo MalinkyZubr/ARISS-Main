@@ -376,6 +376,9 @@
 * continued to attempt to get the plutosdr transmit to work. Working through consistent crashing issues with DATV express on windows. Attempted and failed wine installation on linux
 * began studying linear DC circuit design
 * received ST2 programmer, began programming vaisala rs41
+* read dave israel papers on DSN
+* give kate oberlander RObert contact for her sister, urban design
+  * koberlander@g.ucla.edu
   * will figure this out later
   * read more about different modes, mode change button
   * see pictures for more info
@@ -397,3 +400,15 @@
 * learned about crystal radio, will build one
 * learned about grounding of antennas, parasitic capacitances, ground plane function
 * find another antenna to make
+
+07/03/2024 9am-5pm independent work
+* worked on compiling opentuner from source
+* configured and setup raspberry pi 3 ground station for the cubesatsim
+* updated test documentation
+* met with randy berger and pete to sync on the construction of picotuner and share experiences
+* began researching design principles of dipole antennas and the yagi uda antenna
+
+07/05/2024 9am - 5pm independent work
+* began initial brainstorming on MCU sun rotator system
+* read paper on DSN by dave israel
+* began construction of Yagi Antenna
