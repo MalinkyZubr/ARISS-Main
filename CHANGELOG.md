@@ -412,3 +412,11 @@
 * began initial brainstorming on MCU sun rotator system
 * read paper on DSN by dave israel
 * began construction of Yagi Antenna
+
+07/06/2024 9am - 5pm 45 mile drive
+* cut additional boards for cubesatsim
+* soldered additional raspberry pis for cubesatsim
+* flashed additional cubesatsim SD cards
+* attended weekly briefing meeting
+* got QSSTV to work with cubesatsim using audio cable between two laptops. WIll make the virtual interface work later
+* installed the fldigi morse decoder, observed morse mode for cubesat on sdrpp
