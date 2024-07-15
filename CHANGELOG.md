@@ -420,3 +420,19 @@
 * attended weekly briefing meeting
 * got QSSTV to work with cubesatsim using audio cable between two laptops. WIll make the virtual interface work later
 * installed the fldigi morse decoder, observed morse mode for cubesat on sdrpp
+
+07/12/2024 9am - 5pm independent work
+* weekly meeting with intern fellows
+* began design for cmos based virtual interrupt expander for arduino uno
+* began looking into RGB arrays via I2C for arduino
+* continued learning about electronics
+
+07/15/2024 9am - 7 pm 45 mile drive
+* finished assembly of 2 additional cubesat sim units
+  * soldering of radio boards
+  * increasing tolerance of 3d printed parts
+  * assembly of LED arrays
+* tested new version of OpenTuner, confirmed functionality
+* observed radio calibration/signal strength testing
+* discussed KiCad design, communicated with coworkers about design for pi sensor hat
+* attended weekly briefing
