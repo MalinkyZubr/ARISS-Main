@@ -379,6 +379,9 @@
 * read dave israel papers on DSN
 * give kate oberlander RObert contact for her sister, urban design
   * koberlander@g.ucla.edu
+* read dave israel papers on DSN
+* give kate oberlander RObert contact for her sister, urban design
+  * koberlander@g.ucla.edu
   * will figure this out later
   * read more about different modes, mode change button
   * see pictures for more info
@@ -413,13 +416,14 @@
 * read paper on DSN by dave israel
 * began construction of Yagi Antenna
 
-07/06/2024 9am - 5pm 45 mile drive
+07/08/2024 9am - 5pm 45 mile drive
 * cut additional boards for cubesatsim
 * soldered additional raspberry pis for cubesatsim
 * flashed additional cubesatsim SD cards
 * attended weekly briefing meeting
 * got QSSTV to work with cubesatsim using audio cable between two laptops. WIll make the virtual interface work later
 * installed the fldigi morse decoder, observed morse mode for cubesat on sdrpp
+<<<<<<< HEAD
 
 07/12/2024 9am - 5pm independent work
 * weekly meeting with intern fellows
@@ -436,3 +440,30 @@
 * observed radio calibration/signal strength testing
 * discussed KiCad design, communicated with coworkers about design for pi sensor hat
 * attended weekly briefing
+=======
+* completed yagi antenna design
+
+07/09/2024 9am - 5pm independent work
+* continued testing and calibration of yagi antenna
+* set up meeting with dave israel
+* met with dave israel
+* worked on final presentation with caden
+* got access to updated version of opentuner, setting up test transmitter, gnuradio,uglydatv 
+* nstalled and set up kicad on desktop environment
+* began development of kicad schematic for cubesatsim
+
+07/10/2024 8:30 am - 5pm independent work
+* extensive reading into AM modulation design and mathematics
+* reading into the design and operation of class B amplifiers
+* binary power supplies and DC biasing
+* read IOAG recommendations on selection of BP or IP paper
+
+07/11/2024 8am - 5pm independent work
+* built example AM modulation script in gnu radio
+* continued setup of gnuradio with pluto
+  * successfully made test NBFM transmission with pluto 
+* finished and submitted first iteration of KiCad schematic to Kerry
+* contributed edits to the team magazine publication thing
+* contributed to final presentation for internship end
+  
+>>>>>>> e56ba31 (updates)
