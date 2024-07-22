@@ -687,3 +687,9 @@
 * assembled standoffs for cubesatsim system
 * continued testing with DATVExpress on multiople machines
 * tested cubesatsim boxes
+
+07/19/2024 9am-5pm independent work
+* attended weekly catchup meeting
+* began repairs on cubesatsim tops
+* began work on LED blinker program for the cubesatsim
+* developed library for interrupt expander
