@@ -1,0 +1,31 @@
+LunaNet: Flexible extensible Lunar Navigation Infrastructure
+
+what are the limitations that IP protocol has in lunanet? are you referring to ip saturation
+the paper mentions that DTN bunders are similar to datagrams. What makes streams a poor option in space? Aside from the PNT, what sets Bundle Protocol apart, aside from PNT?
+
+Will the lunar gateway be the first part of this lunar network? The high earth orbit relay station?
+
+With a separate RF band allocated to each overarching communication routes (moon to earth vs earth to moon, for instance) how well do you see the lunanet model scaling when it extends to other planets, or asteroids in the distant future?
+
+in the case of PNT, how do you see it adapting to communication with mars, with the delay being several minutes for a radio signal to reach mars from earth?
+
+Are these resources that NASA intends to share internationally? if not do we anticipate there being parallel systems in place eventually from countries like china depending on separate protocols?
+
+In future, how will existing satellite infrastructure like the TDRS constellation be integrated with the deep space network?
+
+ask general questions about DSP, networking. STart with fourier transforms, probability and statiscts
+
+
+IOAG recommendations for end to end protocols
+
+south pole rescue, solar eclipse webcast
+
+Bundle protocol for amateur radio
+BP protocl version HDTN libraries
+ion codebase, JPL, sourceforge
+
+different versions, how set apart. Internal debates
+
+DTRN with space station. Go with BP v7 for testing
+
+bring this up to BATC people, useful for integration. Israel david expressed interest in hams using these protocols
