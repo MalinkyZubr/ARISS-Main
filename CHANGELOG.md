@@ -467,4 +467,19 @@
 07/16/2024 9am - 5 pm independent work
 * worked heavily on final presentation powerpoint
 * powerpoint practice run
-* received and implemented KiCad feedback from thompson
+* received and implemented KiCad feedback from thompson. Returned all questions he had
+
+07/17/2024 9am -5pm independent work
+* continued working on implementing powerpoint feedback
+* continued designing code to help with boolean algebra in digital circuits
+  * multisim for encoder
+* soldered adapters for cubesatsim LEDs
+* sscheduled pee review for presentation
+
+07/18/2024 9am-5pm independent work
+* Watched video describing operation of switching power supplies
+* standup meeting
+* tracked SAT pirates from brazil using homemade yagi
+* assembled standoffs for cubesatsim system
+* continued testing with DATVExpress on multiople machines
+* tested cubesatsim boxes
