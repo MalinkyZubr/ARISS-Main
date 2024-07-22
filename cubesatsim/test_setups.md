@@ -51,3 +51,6 @@ https://cubesatsim.org/download/cubesatsim-lite-readme.pdf
   * http://amsat.us/FoxTelem
   * very simple and easy install both on linux and windows
   * works out of the box for FSK feeding directly from an RTL-SDR dongle. Decodes and formats telemtry data
+
+## BEST CASE SOLUTION
+* install the ground station software

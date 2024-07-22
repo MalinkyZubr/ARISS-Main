@@ -196,3 +196,10 @@
 * reed relay coil
 * confirmed that datvexpress works in windows 10, plan to setup windows 10 vm in future for proper function, with both mpeg2 and h264. h265 too much for kerry laptop
 * identified successful operation of opentuner on a desktop computer running windows 10. Will try building opentuner from source to avoid machine specific problems with precompiled binaries.
+
+07/03/2024 9am - 6 pm independent work:
+* attended weekly standup meeting
+* attended catchup meeting with Pete to coordinate construction of picotuner
+* successfully ran DATV-Express on microcomputer, transmission with pluto with no crash, failed to receive due to inconsistent transmission
+* attempted manual installation and operation of QSSTV on linux
+* Chose to install the ground station OS card to a raspberry pi (all test software for cubesatsim preinstalled)
