@@ -693,3 +693,13 @@
 * began repairs on cubesatsim tops
 * began work on LED blinker program for the cubesatsim
 * developed library for interrupt expander
+
+07/22/2024 9am-5pm independent work
+* completed repairs on one cubesatsim top
+* finished development of morse code blinker for cubesatsim
+  * necessitated ISO extraction for source files in system
+* attended weekly briefing
+
+07/23/2024 9am-5pm independent work
+* setup for ham radio exam
+* purchased USB adapter for raspberry pi 0 to upload code

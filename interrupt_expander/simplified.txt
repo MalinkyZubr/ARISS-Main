@@ -1,5 +1,8 @@
-O1: L+P
+O1: L + P
 02: H + P
 03: CD + GH + KL + QP
 04: BD + FH + JL + ZP
 05: IL + MP + AD + EH
+
+04: (Z + (M!P) + (Q!P))(J + !L)(!H)(B + !D)
+05: (M+(Q!P)+(Z!P))(I + !L)(E+!H)(A+D!)
