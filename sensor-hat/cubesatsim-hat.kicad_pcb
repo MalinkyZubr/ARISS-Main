@@ -7120,9 +7120,9 @@
 		(uuid "5e402a36-e967-4e97-aadc-cb7fffb01a5a")
 	)
 	(gr_arc
-		(start 165 64)
-		(mid 163.974874 66.474874)
-		(end 161.5 67.5)
+		(start 164.974874 66.025126)
+		(mid 163.957107 68.482233)
+		(end 161.5 69.5)
 		(stroke
 			(width 0.05)
 			(type default)
@@ -7131,9 +7131,9 @@
 		(uuid "1057266d-aad1-4326-8c3d-70e81e245b77")
 	)
 	(gr_arc
-		(start 103.5 67.5)
-		(mid 101.025126 66.474874)
-		(end 100 64)
+		(start 103.5 69.5)
+		(mid 101.025126 68.474874)
+		(end 100 66)
 		(stroke
 			(width 0.05)
 			(type default)
@@ -7153,7 +7153,7 @@
 		(uuid "22a2f42c-876a-42fd-9fcb-c4fcc64c52f2")
 	)
 	(gr_line
-		(start 165 64)
+		(start 164.974874 66.025126)
 		(end 165 47)
 		(stroke
 			(width 0.1)
@@ -7164,7 +7164,7 @@
 	)
 	(gr_line
 		(start 100 53.5)
-		(end 100 64)
+		(end 100 66)
 		(stroke
 			(width 0.1)
 			(type solid)
@@ -7183,8 +7183,8 @@
 		(uuid "4fc5191d-665c-4e0b-bb0e-e963f37d09ea")
 	)
 	(gr_line
-		(start 103.5 67.5)
-		(end 161.5 67.5)
+		(start 103.5 69.5)
+		(end 161.5 69.5)
 		(stroke
 			(width 0.05)
 			(type default)
@@ -7212,6 +7212,32 @@
 		)
 		(layer "Edge.Cuts")
 		(uuid "fca60233-ea1e-489e-a685-c8fb6788f150")
+	)
+	(gr_text "GND"
+		(at 136 69 0)
+		(layer "F.SilkS")
+		(uuid "db479234-3cb0-4036-9ee7-003406dfbd3e")
+		(effects
+			(font
+				(size 0.5 0.5)
+				(thickness 0.1)
+				(bold yes)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "EXT1"
+		(at 111 69 0)
+		(layer "F.SilkS")
+		(uuid "e723499e-eddc-468e-9364-b8a0077109e7")
+		(effects
+			(font
+				(size 0.5 0.5)
+				(thickness 0.1)
+				(bold yes)
+			)
+			(justify left bottom)
+		)
 	)
 	(segment
 		(start 116 66)
