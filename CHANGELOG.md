@@ -123,6 +123,7 @@
 * explored harmonics of RF signals, how this relates to amplification and other operations, connected this to the PLL
 * set up multisim with shared folders in virtual machine to allow for easy testing of rf circuits
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 * made ohms law calculations using ohms law of reactance, vectorized view of reactance and
 * read extensively into filter operations and design, especially focusing on resonant circuits, bandwidth, center frequency, etc
 * learned how to use bode plotter
@@ -380,6 +381,9 @@
 * read dave israel papers on DSN
 * give kate oberlander RObert contact for her sister, urban design
   * koberlander@g.ucla.edu
+=======
+* made ohms law calculations using ohms law of reactance, vectorized view of reactance and
+>>>>>>> Stashed changes
 =======
 * made ohms law calculations using ohms law of reactance, vectorized view of reactance and
 >>>>>>> Stashed changes
