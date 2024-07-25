@@ -703,3 +703,12 @@
 07/23/2024 9am-5pm independent work
 * setup for ham radio exam
 * purchased USB adapter for raspberry pi 0 to upload code
+* continued library implementation for the interrupt expander
+* began research into quine method for boolean reduction
+* continued working on setting up gnuradio for pluto
+* writing script for presentation
+
+07/24/2024 9am-6pm independent work
+* developed full quine algorithm program
+* set up for printing of PCB boards for sensor hat
+* received and began assembly of Yagi tripod mount
