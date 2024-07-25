@@ -1,2 +1,0 @@
-artound pin37, check schematic for used pins, dont use those. soldered one wire to gpio one to ground, bottom side of pi, insert python code to blink once every 5 seconds for LEDs
-ask when giving presentation
