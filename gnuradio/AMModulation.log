@@ -1,0 +1,6 @@
+LTspice 24.0.12 for Windows
+Circuit: * C:\users\malinkyzubr\Desktop\ARISS-Main\AMModulation.asc
+Start Time: Wed Jul 10 09:53:00 2024
+Warning: Multiple definitions of model "j177" Type: JFET
+Warning: Multiple definitions of model "2n4117-l" Type: JFET
+Fatal Error: No analysis request found.

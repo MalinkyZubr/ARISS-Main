@@ -710,5 +710,31 @@
 
 07/24/2024 9am-6pm independent work
 * developed full quine algorithm program
+* improved design of sensor hat PCB to reduce footprint and improve airflow
 * set up for printing of PCB boards for sensor hat
 * received and began assembly of Yagi tripod mount
+* continued efforts to transmit plutosdr dvb-s
+
+07/25/2024 9am-5pm independent work
+* peer review session for presentation
+* continued working on improving presentation script, implementing advice
+* continued deevelopment of interrupt expander
+* reading the bundle protocol specification
+* research into low power microcontrollers for parallel to serial conversion and communication management
+* finally made successful dvb-s transmission with pluto, briefly. Posted issue to software github
+
+07/26/2024 9am-5pm
+* weekly intern catchup session
+* developing C library for interrupt dxpander
+* research into TWI serial communication protocol for ATiny85 microcontroller
+* circuit design in multisim for 32-5 encoder using improved, simplified boolean expression
+* experimenting with hardware interrupts on the arduino
+* imploementing interrupt debouncing in hardware for arduino
+
+07/29/2024 9am-5pm 45 mile drive
+* weekly briefing
+* successfully received dvb-s with the picotuner
+* planned for dress rehearsal with kerry and randy
+* test setup with plutosdr and successful DVB-s transmit
+* installed LEDs on cubesatsim boards
+* 
