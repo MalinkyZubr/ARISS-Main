@@ -737,4 +737,5 @@
 * planned for dress rehearsal with kerry and randy
 * test setup with plutosdr and successful DVB-s transmit
 * installed LEDs on cubesatsim boards
-* 
+* wrote up guide on transmitting dvb-s2 on adalm pluto
+* further picotuner testing, submitted new issue

@@ -21,4 +21,5 @@ PATH=/usr/local/sbin:/usr/local/bin:/sbin:/bin:/usr/sbin:/usr/bin
 52 6	1 * *	root	test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.monthly )
 
 # do the blinky thing
-# @reboot sleep 15 && python /home/pi/blinker.py
+# @reboot python /home/pi/blinker.py > silly.txt
+# @reboot which python > silly2.txt
